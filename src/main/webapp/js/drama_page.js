@@ -8,7 +8,7 @@ const swiper = new Swiper('.swiper-container', {
     // autoplay: false,
     slidesPerView: 4,
     slidesPerGroup: 4,
-    spaceBetween: 20,
+    spaceBetween: 5,
     navigation: {
         prevEl: '.top20_box .swiper-prev',
         nextEl: '.top20_box .swiper-next',
@@ -21,16 +21,22 @@ const swiper = new Swiper('.swiper-container', {
     breakpoints: {
         680: {
             slidesPerView: 4,  //브라우저가 680보다 클 때
-            spaceBetween: 30,
+            spaceBetween: 8,
         },
-        1290: {
-            slidesPerView: 5,  //브라우저가 680보다 클 때
-            spaceBetween: 30,
+        1490: {
+            slidesPerView: 5,
+            spaceBetween: 8,
         },
-        1980: {
-            slidesPerView: 6,  //브라우저가 1000보다 클 때
-            spaceBetween: 30,
+        1880: {
+            slidesPerView: 7,  //브라우저가 1000보다 클 때
+            spaceBetween: 10,
+        },
+
+    on: {
+        afterInit: function() {
+            if (this.slides.length == 1) {
+                jQuery('.product-slider_nav').hide();
+            }
         },
     },
-});
-//커밋 업데이트용
+}});

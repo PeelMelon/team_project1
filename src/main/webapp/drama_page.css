@@ -269,15 +269,9 @@ i{
 
 /*  */
 .top20container {
-    flex: 1; /* 남은 공간을 모두 차지하도록 설정 */
-    transition: margin-left 0.3s ease;
-    margin-left: 240px; /* 사이드바 너비만큼의 여백 */
+    position: relative;
+    z-index: 1;
 }
-
-.top20container {
-    margin-left: 0; /* 사이드바가 닫히면 여백 제거 */
-}
-
 
 @media screen and (min-width: 586px) {
     .top20container{
@@ -289,22 +283,28 @@ i{
 
 .top20container .top20title {
     display: block;
-    position: absolute;
+    position: relative;
     width: 100%;
     font-size: 20px;
     font-weight: bold;
     margin-left: 10px;
-    margin-top: 15px;
+    margin-top: 20px;
+    z-index: 2;
 }
 
 .top20container .top20_box {
+    width: 100%;
+    height: 900px;
+    z-index: 3;
 }
 
 .swiper-container{
+    
 }
 
 .top20container .top20_box .swiper-wrapper {
-    margin-top: 55px;
+    margin-top: 20px;
+    z-index: 4;
 }
 
 .swiper-wrapper .swiper-slide {
@@ -317,6 +317,7 @@ i{
     border-radius: 13px;
     border: 1px solid rgba(115, 158, 187, 0.4);
     overflow: hidden;
+    z-index: 5;
 }
 
 .top20_box .slide-slide img:hover {
@@ -339,39 +340,46 @@ i{
     color: #666;
 }
 
-.swiper-prev, .swiper-next{
+.swiper-pagination {
+    display: none;
+    padding: 0;
+    margin: -200px;
+}
+
+.swiper-prev, .swiper-next{ 
     width: 40px;
     height: 40px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 50px;
     box-shadow: 2px 2px 8px rgba(0,0,0,.5);
     cursor: pointer;
     background-color: #fff;
     transition: background-color 0.3s ease, opacity 0.3s ease;
-    z-index: 10;
     top: 310px;
 }
 
 .swiper-prev {
-    position: relative;
+    z-index: 10;
+    margin-top: 20px;
+}
+
+.swiper-next { 
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 50px;
+    z-index: 11;
 }
 
 .swiper-prev .material-symbols-outlined {
     font-size: 30px;
-    font-weight: 900;
+    font-weight: 700;
 }
 .swiper-next .material-symbols-outlined {
     font-size: 30px;
-    font-weight: 900;
+    font-weight: 700;
 }
-
-/* .top20_box .swiper-container .swiper-prev,
-.swiper-next:hover {
-    
-} */
 
 .swiper-next {  /* 오른쪽 끝 */
     right: 0;
@@ -379,5 +387,5 @@ i{
 }
 
 .swiper-prev {  /* 왼쪽 끝 */
-    left: 0;
+    
 }
