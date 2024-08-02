@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>drama_main</title>
     <link rel="stylesheet" href="./drama_page.css">
-    <!-- <link rel="stylesheet" href="/YouTube/css/main.css"> -->
+    <!-- <link rel="stylesheet" href="./YouTube/css/main.css"> -->
     <script
     src="https://code.jquery.com/jquery-3.7.1.js"
     integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
@@ -294,15 +294,194 @@
             </div>
         </div>
     </section>
-</div>
 
     <section class="bottom_menu">
-        <div class="bot_title">
-
-        </div>
+        <div class="bot_title">지금인기</div>
         <div class="bot_content">
-
+			<div class="container">
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <div class="thumbnail">
+                    <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
+                </div>
+                <div class="details">
+                    <div class="logo">
+                        <img src="https://yt3.ggpht.com/u-wNEA8k1heDBtOU92ZapUEc3i7scrh_eI6usjVdGwymgIi8olLNwUJgjq2S5iaxCYLEjpaZ=s68-c-k-c0x00ffffff-no-rj" alt="">
+                    </div>
+                    <div class="title">
+                        <h2> How To Build A $10,000 Website With No-Code +AI  </h2>
+                        <a href="#">WeAreNoCode11</a>
+                        <span>video views · time </span>
+                    </div>
+                </div>
+            </div>
+        </div>
         </div>
     </section>
+</div>
 </body>
 </html>
