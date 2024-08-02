@@ -192,112 +192,91 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <img src="./drama_images/1717472960793.png" alt="kino" />
-                        <a href="javascript:void(0);" class="r_tilte">키노라이츠</a>
-                        <div class="rabk">1</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">1 </div>키노라이츠</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/20240604_171540_172.jpg" alt="daynight" />
-                        <a href="javascript:void(0);" class="r_tilte">낮과밤이다른그녀</a>
-                        <div class="rank">2</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">2 </div> 낮과 밤이 다른 그녀</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/1649860853169.jpg" alt="tving" />
-                        <a href="javascript:void(0);" class="r_tilte">티빙</a>
-                        <div class="rank">3</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">3</div> 티빙(TVING)</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/dec68228-9180-4c81-8d64-c6b4347e3167.jpg" alt="thanks" />
-                        <a href="javascript:void(0);" class="r_tilte">감사합니다</a>
-                        <div class="rank">4</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">4</div> 감사합니다</a>
                     </div>
                     <!-- 4 -->
                     <!-- 5 -->
                     <div class="swiper-slide">
                         <img src="./drama_images/1467019091809.jpg" alt="net" />
-                        <div class="rank">5</div>
-                        <a href="javascript:void(0);" class="r_tilte">Netflix</a>
-                        <div class="rank">5</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">5</div>Netflix Korea</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/1711553000666.png" alt="disney" class="crop" />
-                        <a href="javascript:void(0);" class="r_tilte">Disney</a>
-                        <div class="rank">6</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">6</div>디즈니+ 코리아</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/5003cac6-b1b2-403b-8945-ad9fb9f16b55.jpg" alt="if" />
-                        <a href="javascript:void(0);" class="r_tilte">우연일까</a>
-                        <div class="rank">7</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">7</div>우연일까?</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/1549470301400.png" alt="koc" />
-                        <a href="javascript:void(0);" class="r_tilte">콕티비</a>
-                        <div class="rank">8</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">8</div>콬티비</a>
                     </div>
                     <!-- 8 -->
                     <!-- 9 -->
                     <div class="swiper-slide">
                         <img src="./drama_images/d89383a7-9210-4655-ab6a-681d295270f8.jpg" alt="good">
-                        <a href="javascript:void(0);" class="r_tilte">굿파트너</a>
-                        <div class="rank">9</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">9</div>굿파트너</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/20240516_102609_046.jpg" alt="play_woman" />
-                        <a href="javascript:void(0);" class="r_tilte">놀아주는여자</a>
-                        <div class="rank">10</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">10</div>놀아주는여자</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/default_clip.png" alt="1min" class="crop" />
-                        <a href="javascript:void(0);" class="r_tilte">1분 영화드라마</a>
-                        <div class="rank">11</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">11</div>1분영화드라마</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/1702277166329.jpg" alt="kizzle" />
-                        <a href="javascript:void(0);" class="r_tilte">kizzle</a>
-                        <div class="rank">12</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">12</div>kizzle</a>
                     </div>
                     <!-- 12 -->
                     <!-- 13 -->
                     <div class="swiper-slide">
                         <img src="./drama_images/yk1pdcvpmzjL.jpg" alt="suzy" />
-                        <a href="javascript:void(0);" class="r_tilte">수지맞은우리</a>
-                        <div class="rank">13</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">13</div>수지맞은 우리</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/1703727072632.png" alt="pick" />
-                        <a href="javascript:void(0);" class="r_tilte">pick go</a>
-                        <div class="rank">14</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">14</div>pick go</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/HxNAO3QvHyHL.jpg" alt="beauty">
-                        <a href="javascript:void(0);" class="r_tilte">beauty</a>
-                        <div class="rank">15</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">15</div> beauty</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/T60479G_pgm_poster1_20240408112127939.jpg" alt="brave" />
-                        <a href="javascript:void(0);" class="r_tilte">용감무쌍 용수정</a>
-                        <div class="rank">16</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">16</div>용감무쌍 용수정</a>
                     </div>
                     <!-- 16 -->
                     <!-- 17 -->
                     <div class="swiper-slide">
                         <img src="./drama_images/1702272428033.png" alt="hiteen" />
-                        <a href="javascript:void(0);" class="r_tilte">하이틴에이저 Hi-teenager official</a>
-                        <div class="rank">17</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">17</div>하이틴에이저 Hi-teenager</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/1667978365556.png" alt="original" />
-                        <a href="javascript:void(0);" class="r_tilte">연애플레이리스트</a>
-                        <div class="rank">18</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">18</div>연애 플레이 리스트</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/1566784610491.png" alt="jun" />
-                        <a href="javascript:void(0);" class="r_tilte">AXN</a>
-                        <div class="rank">19</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">19</div>AXN</a>
                     </div>
                     <div class="swiper-slide">
                         <img src="./drama_images/players2.jpg" alt="players2" />
-                        <a href="javascript:void(0);" class="r_tilte">플레이어2</a>
-                        <div class="rank">20</div>
+                        <a href="javascript:void(0);" class="r_tilte"><div class="rank">20</div>플레이어2:꾼들의전쟁</a>
                     </div>
                 <!-- 20 -->
                 </div>
