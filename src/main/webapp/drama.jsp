@@ -1,7 +1,8 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+
 <!DOCTYPE html>
 <html lang="en">
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -81,7 +82,7 @@
         </header>
     
         <!------MAIN------>
-        <div class="YtBody">
+	<div class="YtBody">
         <div id = "sidebar" class="sidebar">
             <div class="sidebar_nav">
                 <div class="nav-item">
@@ -175,15 +176,17 @@
                 </div>
             </div>
         </div>
-        <div class="video_selection">
-            <div class="recommendboxes">
-                <button class="box">전체</button>
-                <button class="box">반려동물</button>
-                <button class="box">야구</button>
-                <button class="box">뉴스</button>
-                <button class="box">요리</button>
-            </div>
-        <section class="top20container">
+	</div>
+	<div class="video_selection">
+		<div class="recommendboxes">
+			<button class="box">전체</button>
+			<button class="box">반려동물</button>
+			<button class="box">야구</button>
+			<button class="box">뉴스</button>
+			<button class="box">요리</button>
+		</div>
+	<div class="container">
+	<section class="top20container">
         <div class="top20title">
             <h3>TOP20 드라마 채널</h3>
         </div>
@@ -292,13 +295,14 @@
                     chevron_forward
                 </span>
             </div>
-        </div>
+        </div> 
     </section>
+    </div>
 
     <section class="bottom_menu">
         <div class="bot_title">지금인기</div>
         <div class="bot_content">
-			<div class="container">
+			
             <div class="video">
                 <div class="thumbnail">
                     <img src="https://i.ytimg.com/vi/ROjFr9yz0tI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBMnCqyoipls2ieWWSLwXL2A56pg" alt="">
@@ -480,8 +484,7 @@
                 </div>
             </div>
         </div>
-        </div>
     </section>
-</div>
+	</div>
 </body>
 </html>

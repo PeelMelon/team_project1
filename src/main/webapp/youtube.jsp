@@ -78,7 +78,7 @@
     </header>
 
     <!------MAIN------>
-    <div class="YtBody">
+<div class="YtBody">
     <div id = "sidebar" class="sidebar">
         <div class="sidebar_nav">
             <div class="nav-item">
@@ -118,8 +118,6 @@
                     <span>좋아요 표시한 영상</span>
                 </div>
             </div>
-            
-            
         </div>
         <hr>
         <div class="sidebar_nav">
@@ -358,6 +356,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 </body>
 </html>

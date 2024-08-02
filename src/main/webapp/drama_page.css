@@ -41,6 +41,8 @@ svg{
     display: bl;
 }
 
+
+
 /* ------ HEADER ------ */
 
 .header{
@@ -203,13 +205,14 @@ i{
     margin-bottom: 10px;
     color:rgb(3,3,3);
 }
-.recommendboxes button.box{
+.recommendboxes button.box {
     margin-right: 10px;
     padding: 5px 10px;
     border-radius: 5px;
     background-color: #ddd;
 }
-.container{
+
+.container { 
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -217,6 +220,7 @@ i{
     gap: 20px;
     box-sizing: border-box;
 }
+
 .container .video{
     width: calc(33.3333% - 13.33px);
     cursor: pointer;
@@ -269,7 +273,12 @@ i{
 
 /*  */
 .top20container {
-    z-index: 1;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    box-sizing: border-box;
 }
 
 @media screen and (min-width: 586px) {
@@ -375,8 +384,7 @@ i{
 }
 
 .swiper-next { 
-    position: absolute;
-    margin-top: 228px;
+    position: relative;
     z-index: 11;
     right: 0;
 }
