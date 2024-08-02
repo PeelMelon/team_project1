@@ -88,7 +88,6 @@ svg{
     display: flex;
     align-items: center;
     padding: 5px 15px;
- 
 }
 
 .search .search-inner img{
@@ -159,14 +158,12 @@ svg{
     margin-left: 15px;
 }
 .nav-item:hover{
-    
     background: #bdbdbd;
 }
 
 .sub-menu {
     display: none;
     padding-left: 20px;
-    
 }
 .nav-item.items {
     padding-left: 20px;
@@ -226,8 +223,8 @@ i{
     box-sizing: border-box;
     transition: border-color 0.3s;
     border: 1px solid #fff;
-   
 }
+
 .video:hover{
     border: 1px solid #b8b8b8;
 }

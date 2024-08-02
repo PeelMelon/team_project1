@@ -346,6 +346,7 @@ i{
     font-weight: 800;
     z-index: 12;
     margin-right:8px;
+    /* letter-spacing: -11px; */
 }
 
 .swiper-pagination {

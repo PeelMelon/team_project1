@@ -10658,8 +10658,6 @@ jQuery.trim = function( text ) {
 		( text + "" ).replace( rtrim, "$1" );
 };
 
-
-
 // Register as a named AMD module, since jQuery can be concatenated with other
 // files that may use define, but not via a proper concatenation script that
 // understands anonymous AMD modules. A named AMD is safest and most robust
@@ -10680,13 +10678,8 @@ if ( typeof define === "function" && define.amd ) {
 }
 
 
-
-
-var
-
+var _jQuery = window.jQuery,
 	// Map over jQuery in case of overwrite
-	_jQuery = window.jQuery,
-
 	// Map over the $ in case of overwrite
 	_$ = window.$;
 
@@ -10708,8 +10701,9 @@ jQuery.noConflict = function( deep ) {
 if ( typeof noGlobal === "undefined" ) {
 	window.jQuery = window.$ = jQuery;
 }
-
-
-
-
 return jQuery;
+// }));
+})(); // ** !! 라인 추가됨 !! **
+//return jQuery;
+//전역에서 return 사용 불가
+

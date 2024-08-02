@@ -45,7 +45,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.8.4/swiper-bundle.min.css" integrity="sha512-aMup4I6BUl0dG4IBb0/f32270a5XP7H1xplAJ80uVKP6ejYCgZWcBudljdsointfHxn5o302Jbnq1FXsBaMuoQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <!-- 로컬 jQuery 파일을 불러오기 -->
-   
+
     <!--  아이콘 불러오기 -->
     <script src="https://kit.fontawesome.com/12d13cde63.js" crossorigin="anonymous"></script>
     <script defer src="./YouTube/js/main.js"></script>
@@ -53,7 +53,7 @@
 </head>
 <body>
     <!-- ------HEADER ------ -->
-   <header class="header">
+    <header class="header">
     <div class="header_logo">
         <button id = "toggleButton">
             <i class = "fas fa-bars"></i>
@@ -75,10 +75,10 @@
         <i class="fas fa-bell"></i>
         <i class="fas fa-user-circle"></i>
     </div>
-   </header>
+    </header>
 
-   <!------MAIN------>
-   <div class="YtBody">
+    <!------MAIN------>
+    <div class="YtBody">
     <div id = "sidebar" class="sidebar">
         <div class="sidebar_nav">
             <div class="nav-item">
@@ -358,6 +358,6 @@
             </div>
         </div>
     </div>
-   </div>
+</div>
 </body>
 </html>
